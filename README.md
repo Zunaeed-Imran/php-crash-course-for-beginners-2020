@@ -7,3 +7,5 @@
 5. or you want to take that information and place that  in the database
 6. PHP connect with the database
 7. PHP execute query
+8. we gonna use xampp server
+9. we make php file and practicing it
