@@ -54,5 +54,8 @@ echo "hello";
 // $asso = array("imran" => 26, "julius" => 32);
 // echo $asso["julius"];
 
+// for($i = 0; $i <= 10; $i++){
+//   echo $i."<br>";
+// }
 
 ?>
