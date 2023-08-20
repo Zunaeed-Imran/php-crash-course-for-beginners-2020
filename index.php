@@ -8,8 +8,10 @@ echo "hello";
 echo "hello";
 */
 
-// $a = 10;
-// $b = "Hello baba jibon";
-// echo $a;
-
+//  $a = 10;
+//  $b = "Hello baba jibon";
+//  echo $a;
+//  echo "<br>";
+//  echo "<hr>";
+//  echo $b;
 ?>
