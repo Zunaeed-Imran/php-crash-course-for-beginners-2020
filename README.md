@@ -4,3 +4,6 @@
 2. PHP Stand for Hypertext Preprocessor
 3. It's a server side scripting language
 4. it's like connect script with frontend part with backend
+5. or you want to take that information and place that  in the database
+6. PHP connect with the database
+7. PHP execute query
