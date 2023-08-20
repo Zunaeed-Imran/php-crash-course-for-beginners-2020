@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -11,15 +11,19 @@
     <button type="submit">Submit</button>
   </form>
 </body>
-</html>
+</html> -->
 
 <?php
 // if(isset($_GET['name'])){
 //   echo "Hello"."  ". $_GET['name'];
 // }
 
-if(isset($_REQUEST['name'])){
-  echo "Hi  ".$_REQUEST['name'];
-}
+// if(isset($_REQUEST['name'])){
+//   echo "Hi  ".$_REQUEST['name'];
+// }
 
+function name(){
+  echo "Hy this is Imran";
+}
+name();
 ?>
