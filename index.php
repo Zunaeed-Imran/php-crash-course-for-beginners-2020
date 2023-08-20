@@ -31,16 +31,20 @@ echo "hello";
 // $c = $a / $b;
 // echo "the result is {$c}";
 
-$a = 50;
-$b = 50;
+// $a = 50;
+// $b = 50;
 
-if($a > $b){
-  echo "a is a big number";
-}elseif($a === $b){
-  echo "a and b is same number";
-}else{
-  echo "a is small number";
-}
+// if($a > $b){
+//   echo "a is a big number";
+// }elseif($a === $b){
+//   echo "a and b is same number";
+// }else{
+//   echo "a is small number";
+// }
 
+// $index_array = ["hello", 1, 5, 598, 58.54];
+// echo $index_array[2];
 
+// $fruits = array("hello", 1, 5, 598, 58.54);
+// echo $fruits[2];
 ?>
