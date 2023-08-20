@@ -14,4 +14,9 @@ echo "hello";
 //  echo "<br>";
 //  echo "<hr>";
 //  echo $b;
+
+// $a = 20;
+// $b = 62;
+// $c = null;
+// echo $c = $a + $b;
 ?>
