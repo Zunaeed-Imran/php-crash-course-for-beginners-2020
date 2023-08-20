@@ -24,4 +24,11 @@ echo "hello";
 // $c = 40;
 // $a = $b + $c;
 // echo $a;
+
+
+// $a = 96;
+// $b = 88;
+// $c = $a / $b;
+// echo "the result is {$c}";
+
 ?>
