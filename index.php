@@ -19,4 +19,9 @@ echo "hello";
 // $b = 62;
 // $c = null;
 // echo $c = $a + $b;
+
+// $b = 60;
+// $c = 40;
+// $a = $b + $c;
+// echo $a;
 ?>
