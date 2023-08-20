@@ -9,3 +9,4 @@
 7. PHP execute query
 8. we gonna use xampp server
 9. we make php file and practicing it
+10. in php array string, number, float everyhing we can given value in array
