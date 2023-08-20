@@ -47,4 +47,8 @@ echo "hello";
 
 // $fruits = array("hello", 1, 5, 598, 58.54);
 // echo $fruits[2];
+
+
+// $assaciative = ["pencil" => 10, "pen" => 20, "eraser" => 30];
+// echo $assaciative["pen"];
 ?>
