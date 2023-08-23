@@ -1,12 +1,12 @@
 # php-crash-course-for-beginners-2020
 
-1. Variable, Function, Loop, Condational Statement
-2. PHP Stand for Hypertext Preprocessor
-3. It's a server side scripting language
-4. it's like connect script with frontend part with backend
-5. or you want to take that information and place that  in the database
-6. PHP connect with the database
-7. PHP execute query
-8. we gonna use xampp server
-9. we make php file and practicing it
-10. in php array string, number, float everyhing we can given value in array
+#### Variable, Function, Loop, Condational Statement
+#### PHP Stand for Hypertext Preprocessor
+#### It's a server side scripting language
+#### it's like connect script with frontend part with backend
+#### or you want to take that information and place that  in the database
+#### PHP connect with the database
+#### PHP execute query
+#### we gonna use xampp server
+#### we make php file and practicing it
+#### in php array string, number, float everyhing we can given value in array
