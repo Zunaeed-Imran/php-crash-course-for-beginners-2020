@@ -15,8 +15,8 @@
 
 <?php
 
-if(isset($_GET['name'])){
-    echo "Hello how are you {$_GET['name']}";
+if(isset($_REQUEST['name'])){
+    echo "Hello how are you {$_REQUEST['name']}"; // REQUEST METHOD IS work for both form (get or post) both
 }
 
 ?>
