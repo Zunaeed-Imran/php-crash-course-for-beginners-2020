@@ -1,5 +1,5 @@
 # php-crash-course-for-beginners-2020
-## [link of the tutorial ] (https://youtu.be/6mO1UA1r-6Q) 
+[link of the tutorial ] (https://youtu.be/6mO1UA1r-6Q) 
 #### Variable, Function, Loop, Condational Statement
 #### PHP Stand for Hypertext Preprocessor
 #### It's a server side scripting language
