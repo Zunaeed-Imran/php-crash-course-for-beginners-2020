@@ -12,4 +12,4 @@
 #### in php array string, number, float everyhing we can given value in array
 
 1. echo in php
-2. 
+2. operation 
