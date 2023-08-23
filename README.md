@@ -20,3 +20,4 @@
 7. while loop
 8. foreach
 9. form
+10. function
