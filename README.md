@@ -10,3 +10,6 @@
 #### we gonna use xampp server
 #### we make php file and practicing it
 #### in php array string, number, float everyhing we can given value in array
+
+1. echo in php
+2. 
