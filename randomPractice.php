@@ -1,6 +1,10 @@
 <?php
 
-$a  = array("asdsd", 96, "ola", 908);
 
-echo $a[2];
+$r = ["imran" => 26, "ranas" =>35, "TATA" => 75];
+
+foreach($r as $ra){
+    echo $ra.'<br>';
+}
+
 ?>
