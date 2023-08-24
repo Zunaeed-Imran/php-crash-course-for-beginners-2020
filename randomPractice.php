@@ -1,11 +1,16 @@
 <?php
 
-  $i = 52;
-  $j = 14;
+$res = 70;
 
-  $c = $i / $j;
-
-  var_export($c);
+if($res >= 95){
+    echo "You got A+";
+}elseif($res >= 85){
+    echo "You got A";
+}elseif($res >= 75){
+    echo "You got A-";
+}else{
+    echo "You have faield";
+}
 
 
 ?>
