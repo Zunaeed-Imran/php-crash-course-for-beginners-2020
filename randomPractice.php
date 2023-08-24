@@ -1,16 +1,6 @@
 <?php
 
-$res = 70;
+$a  = array("asdsd", 96, "ola", 908);
 
-if($res >= 95){
-    echo "You got A+";
-}elseif($res >= 85){
-    echo "You got A";
-}elseif($res >= 75){
-    echo "You got A-";
-}else{
-    echo "You have faield";
-}
-
-
+echo $a[2];
 ?>
