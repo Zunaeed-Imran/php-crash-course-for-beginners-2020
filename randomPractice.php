@@ -1,9 +1,9 @@
 <?php
 
-$e = 1;
-while($e <= 10){
-    echo $e.'<br>';
-    $e++;
-}
+  $r = ["daddy" => "mummy", "hana" => "garpa", "pichla" => "kamra", "guchka" => "kouch"];
+
+  foreach ($r as $t => $y){
+    echo $t .'='.$y.'<br>';
+  }
 
 ?>
